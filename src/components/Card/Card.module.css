@@ -1,0 +1,10 @@
+#itemId {
+    border: 1px solid;
+    border-radius: 15px;
+    width: 1050px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 10px 10px grey;
+}
+/* #buttonContainer {
+    padding-left: 10px;
+} */
